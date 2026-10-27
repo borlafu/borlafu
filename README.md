@@ -1,13 +1,18 @@
 ```
-┌───────────────────────────────────────────────────┐
-│  borlafu ~ %                                      │
-│  tech lead / cloud solutions architect            │
-│  spain <-> canada    es / en                      │
-└───────────────────────────────────────────────────┘
+          ▄▄▄██████▄▄▄▄▄▄▄
+       ▄▄██████████████████▄
+     ▄███████████████████████     borlafu ~ %
+   ▄████████████████████████▀
+   ███████████  ██████████▄▄      tech lead
+  ██████████████████████████      cloud solutions architect
+ ███████████████▀▀▀▀▀▀▀▀▀▀▀
+ ██████████████████▀████▄▄        spain <-> canada
+▄█████████████▀▀        ▀██▄      es / en
+███████████▀              ██▄
+██████████▀        ▄▄▄███████
+                  ▄█▀█▀██████
+                     ▀   ▀████
 ```
-
-> [!TIP]
-> Boring infrastructure is a feature, not a limitation.
 
 <details open>
 <summary><code>$ whoami</code></summary>
