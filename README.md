@@ -27,12 +27,37 @@ spec-driven · api-first · pragmatic · structured
 <summary><code>$ ./skills --render</code></summary>
 
 ```
-  ▒▒████▒▒      cloud     █████████░░░
-  ▒██████▒      iac       ████████░░░░
-  ██░██░██      k8s       ███████░░░░░
-  ████████      data gov  ██████░░░░░░
-  ▒██▒▒██▒      python    ███████░░░░░
-  ▒▒████▒▒      leading   ████████░░░░
+       █     █
+        █   █
+       ███████
+      ██ ███ ██
+     ███████████
+     █ ███████ █
+     █ █     █ █
+         ██ ██
+
+cloud
+  aws           █████████▓  99%
+  azure         ████████░░  80%
+  gcp           ██████░░░░  60%
+
+platform
+  architecture  █████████░  90%
+  terraform     ████████▓░  85%
+  kubernetes    ███████▓░░  75%
+
+languages
+  python        █████████░  90%
+  java          ████████░░  80%
+  typescript    ██████░░░░  60%
+
+data
+  engineering   █████████░  90%
+  governance    ███████░░░  70%
+
+leading
+  tech lead     ████████▓░  85%
+  stakeholders  ████████░░  80%
 ```
 
 </details>
@@ -42,9 +67,9 @@ spec-driven · api-first · pragmatic · structured
 
 ```
 build    terraform  docker  git
-run      aws  azure  kubernetes
+run      aws  azure  gcp  kubernetes
 store    postgresql
-write    python  typescript
+write    python  java  typescript
 pair     claude
 ```
 
