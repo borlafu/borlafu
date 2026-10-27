@@ -46,10 +46,14 @@ platform
   terraform     ████████▓░  85%
   kubernetes    ███████▓░░  75%
 
-languages
+code
   python        █████████░  90%
   java          ████████░░  80%
   typescript    ██████░░░░  60%
+
+spoken
+  spanish       ██████████  native
+  english       █████████▓  c2
 
 data
   engineering   █████████░  90%
