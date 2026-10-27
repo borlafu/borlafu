@@ -14,9 +14,9 @@
 
 ```
 Cloud architect and tech lead. I turn vague
-requirements into specs, specs into terraform, and
-terraform into something an on-call engineer can
-read at 3am without swearing.
+requirements into specs, specs into code and
+infrastructure, and infrastructure into something an
+on-call engineer can read at 3am without swearing.
 
 spec-driven · api-first · pragmatic · structured
 ```
