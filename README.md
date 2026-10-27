@@ -27,41 +27,19 @@ spec-driven · api-first · pragmatic · structured
 <summary><code>$ ./skills --render</code></summary>
 
 ```
-       █     █
-        █   █
-       ███████
-      ██ ███ ██
-     ███████████
-     █ ███████ █
-     █ █     █ █
-         ██ ██
+cloud                           platform
+  aws          █████████▓  99%    architecture █████████░  90%
+  azure        ████████░░  80%    terraform    ████████▓░  85%
+  gcp          ██████░░░░  60%    kubernetes   ███████▓░░  75%
 
-cloud
-  aws           █████████▓  99%
-  azure         ████████░░  80%
-  gcp           ██████░░░░  60%
+code                            data
+  python       █████████░  90%    engineering  █████████░  90%
+  java         ████████░░  80%    governance   ███████░░░  70%
+  typescript   ██████░░░░  60%
 
-platform
-  architecture  █████████░  90%
-  terraform     ████████▓░  85%
-  kubernetes    ███████▓░░  75%
-
-code
-  python        █████████░  90%
-  java          ████████░░  80%
-  typescript    ██████░░░░  60%
-
-spoken
-  spanish       ██████████  native
-  english       █████████▓  c2
-
-data
-  engineering   █████████░  90%
-  governance    ███████░░░  70%
-
-leading
-  tech lead     ████████▓░  85%
-  stakeholders  ████████░░  80%
+leading                         spoken
+  tech lead    ████████▓░  85%    spanish      native
+  stakeholders ████████░░  80%    english      c2
 ```
 
 </details>
